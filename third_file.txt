@@ -1,2 +1,4 @@
 This is the third file I added to my project
 line
+
+Git is useful

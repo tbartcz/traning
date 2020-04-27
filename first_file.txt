@@ -1,1 +1,4 @@
-This is the first file.
+This is the first file I added to the project.
+
+This file is comming before others.
+GIT is tracking my changes.
