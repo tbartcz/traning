@@ -6,3 +6,6 @@ GIT is tracking my changes.
 2
 
 Glupia linia
+
+Takie tam
+
