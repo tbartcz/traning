@@ -4,5 +4,3 @@ This file is comming before others.
 GIT is tracking my changes.
 1
 2
-
-Glupia linia
